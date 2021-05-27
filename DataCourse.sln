@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{77A7EB7C-6852-41B2-9E45-C60854EF5868}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "txt", "txt", "{2958F907-7C7D-456B-8C17-845FC0643F42}"
+	ProjectSection(SolutionItems) = preProject
+		I:\Inform\M_KB\KB3_MetProg_Yakimova\data_course.txt = I:\Inform\M_KB\KB3_MetProg_Yakimova\data_course.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
